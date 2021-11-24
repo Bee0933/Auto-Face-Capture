@@ -4,7 +4,7 @@
 
 ## ✔️ **Description 📑**
 ___
-This is a simple projest which detects faces of people from images and video/web cam feeds by drawing bounded boxes round the axis of the detected faces. It also detects physical feature points within the bounded box which include: The eyes :eyes: , nose 👃 and ears 👂.
+This is a simple project which detects faces of people from images and video/web cam feeds by drawing bounded boxes round the axis of the detected faces. It also detects physical feature points within the bounded box which include: The eyes :eyes: , nose 👃 and ears 👂.
 
 ## ✔️ **Libraries and tools** **🛠️**
 ___
